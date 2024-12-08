@@ -13,6 +13,7 @@ import Home from "./components/Home/Home";
 import auth from "./components/Login/firebase";
 import { ToastContainer } from "react-toastify";
 import MyCalendar from "./components/Home/Calender";
+import "react-big-calendar/lib/css/react-big-calendar.css";
 
 function App() {
   // const [count, setCount] = useState(0);
